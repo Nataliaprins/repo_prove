@@ -1,0 +1,7 @@
+# --- Manipulación de datos y cálculo numérico ---
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+
+# --- Datos financieros ---
+yfinance>=0.2.40
